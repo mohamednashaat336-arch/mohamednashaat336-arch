@@ -1,16 +1,58 @@
-## Hi there 👋
+Hi, I'm Mohamed Nashaat 👋
 
-<!--
-**mohamednashaat336-arch/mohamednashaat336-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React.js | JavaScript
 
-Here are some ideas to get you started:
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional digital experiences with clean code, reusable components, and attention to detail.
+
+---
+
+🚀 Tech Stack
+
+Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Bootstrap 5
+
+Tools & Libraries
+
+- Git & GitHub
+- Axios
+- React Router
+- Vite
+
+---
+
+💻 Featured Project
+
+"ShopStream – E-Commerce Web Application" (https://shop-stream-ecommerce-tau.vercel.app/)
+
+A modern e-commerce application built with React 19 and Vite.
+
+- Integrated DummyJSON API for product data.
+- Implemented routing using React Router.
+- Used Axios for API requests.
+- Built reusable components and responsive layouts.
+
+"Live Demo" (https://shop-stream-ecommerce-tau.vercel.app/) · "Source Code" (https://github.com/mohamednashaat336-arch/ShopStream-Ecommerce)
+
+---
+
+🎯 Currently Focused On
+
+- Improving my React.js skills.
+- Building real-world frontend projects.
+- Writing clean and maintainable code.
+- Learning and exploring modern web technologies.
+
+---
+
+🤝 Let's Connect
+
+I'm open to Junior Frontend Developer opportunities, freelance projects, and collaborations.
+
+GitHub: "mohamednashaat336-arch" (https://github.com/mohamednashaat336-arch)
